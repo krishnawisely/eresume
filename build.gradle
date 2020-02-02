@@ -21,7 +21,7 @@ configurations {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "krishnawisely_eresume2"
+    property "sonar.projectKey", "krishnawisely_eresume"
   }
 }
 

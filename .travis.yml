@@ -15,10 +15,10 @@ addons:
   sonarcloud:
     organization: "krishnawisely"
     token:
-      secure: 9c120bffef4a971eead9931acb4d936d1506548e # encrypted value of your token
+      secure: 5e09c837bf6edd1ed6f2faf29cc8083b951cc557 # encrypted value of your token
 
 script:
-  - ./gradlew sonarqube
+  - ./gradlew sonarqube -Dsonar.projectKey=krishnawisely_eresume
 notifications:
   email:
     recipients:
