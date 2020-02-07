@@ -23,5 +23,6 @@ notifications:
   email:
     recipients:
       - krishna192168@gmail.com
+      - yaswanthlakshmi986@gmail.com
     on_success: never # default: change
     on_failure: always # default: always
