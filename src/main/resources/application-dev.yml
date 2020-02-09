@@ -6,4 +6,4 @@
 #    password: root
 #  data:
 #    mongodb:
-#      uri: mongodb+srv://krishna192168:Elon192168@cluster0-bce8c.mongodb.net/eresume?retryWrites=true&w=majority
+#      uri: mongodb+srv://krishna192168:<password>@cluster0-bce8c.mongodb.net/eresume?retryWrites=true&w=majority
